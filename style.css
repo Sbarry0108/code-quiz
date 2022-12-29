@@ -1,0 +1,80 @@
+body {
+  background: rgb(248, 248, 248);
+}
+.container {
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 80px;
+  /* display: none; */
+}
+.time {
+  display: grid;
+}
+span {
+  margin-top: 0px;
+  color: blueviolet;
+  
+}
+#time {
+  margin-left: 85%;
+}
+.container button {
+  background-color: blueviolet;
+  color: white;
+  margin-top: 60px;
+  width: 50%; 
+  height: 40px;
+  border-radius: 10px;
+}
+.question button{
+  background-color: blueviolet;
+  color: white;
+  margin-bottom: 10px;
+  width: 50%; 
+  height: 40px;
+  border-radius: 10px;
+}
+.container2 {
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 80px;
+  display: none;
+}
+#final {
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 80px;
+  display: none;
+}
+.btn {
+  background:green;
+
+}
+#finalResult{
+  margin-left: 30%;
+  margin-right: 30%;
+  margin-top: 80px;
+  display: none;
+}
+.divClass {
+  background-color: rgb(148, 130, 130);
+  color:black;
+  width: 75%;
+  text-transform: capitalize;
+  margin-bottom: 10px;
+  height: 25px;
+}
+.soul {
+  margin-top: 30px;
+}
+#finalResult button {
+  background-color: blueviolet;
+ 
+  color: white;
+  width: 20%; 
+  height: 40px;
+  border-radius: 10px;
+}
+.result {
+  border-top: solid;
+}
