@@ -11,3 +11,5 @@ I created a timed multi-choice quiz that tracks the score of the user using HTML
 REPOSITORY LINK
 
  https://sbarry0108.github.io/code-quiz/
+ 
+ https://github.com/Sbarry0108/code-quiz
